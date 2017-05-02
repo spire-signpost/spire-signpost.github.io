@@ -1,0 +1,3 @@
+### Readme - Spire and the Signpost
+
+a collection of code, notes, and research...
